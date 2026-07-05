@@ -1,0 +1,14 @@
+{
+  "name": "sistema-envios-fastpack",
+  "version": "1.0.0",
+  "description": "Sistema de Envios FastPack - modelado con TypeScript y POO",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
